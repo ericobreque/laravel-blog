@@ -2,7 +2,7 @@
 @section('main')
 
 @section('title')
-Blog | EasyLearning Website
+Blog | EricObreque Website
 @endsection
 
 <main> 
